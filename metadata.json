@@ -1,0 +1,6 @@
+{
+  "name": "SkyD - Secure the Vibe",
+  "description": "Premium artist portfolio and elite booking booking platform for DJ SkyD, specializing in Afro and Latin House grooves.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
